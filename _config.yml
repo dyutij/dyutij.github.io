@@ -1,0 +1,9 @@
+title: "Dyuti Jha"
+description: "Academic website of Dyuti Jha, Assistant Professor of Communication Studies"
+url: "https://dyutijha.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - LICENSE
