@@ -9,6 +9,6 @@ I welcome conversations about research collaborations, academic talks, and teach
 
 **Institution:** [Fort Hays State University](https://www.fhsu.edu/)
 
-**Email:** *Add your preferred professional email address.*
+**Email:** [b_jha@fhsu.edu] (b_jha@fhsu.edu)
 
-**Profiles:** *Add links to Google Scholar, ORCID, LinkedIn, or other professional pages.*
+**Profiles:** [GoogleScholar] (https://scholar.google.com/citations?user=Abi7TssAAAAJ&hl=en), [ORCID] (https://orcid.org/0000-0003-0628-0659), [LinkedIn] (www.linkedin.com/in/bedadyuti-jha).*
