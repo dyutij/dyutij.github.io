@@ -88,9 +88,10 @@ I study how people organize, communicate, and respond to harm in digital environ
 
 <b>↗</b></a><a class="research-card" href="{{ '/research/' | relative_url }}">03
 
-<h3>How humans and automation technology communicates with each other</h3>
+<h3>Human- Automation Interaction </h3>
+<p>How humans and automation technology trust and communicate with each other. </p>
 
-<p>
+<p>Across these areas, I use a mix of methods including experiments, interviews, AI-mediated conversations, and computional analysis.
 
 </p>
 
