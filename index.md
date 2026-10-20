@@ -13,7 +13,7 @@ title: Home
         ORGANIZATIONAL COMMUNICATION · POLITICAL COMMUNICATION
       </p>
 
-      <h1>Dyuti <em>Jha</em></h1>
+      <h1>Dyuti Jha</h1>
 
       <p class="multilingual">দ্যুতি / द्युति</p>
 
