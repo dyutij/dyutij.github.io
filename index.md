@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Home
+---
 
 <section class="hero container">
 
