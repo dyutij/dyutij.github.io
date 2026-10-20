@@ -40,11 +40,12 @@ title: Home
       </div>
 
 
-    <div class="hero-photo">
+     <div class="hero-photo">
       <img
         src="{{ '/assets/images/Profile.jpg' | relative_url }}"
-        alt="Portrait of Dyuti Jha"
-        loading="eager">
+        alt="Portrait of Dyuti Jha">
     </div>
 
+  </div>
+</section>
 
