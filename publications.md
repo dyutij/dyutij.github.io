@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 ## Peer-reviewed publications
 
-Gajjala, R., Edwards, E. L., Rahut, D., Faniyi, O. M., Jha, B., Jain, J., Khan, A., & Farooq, S. (2023). Transnationalising Dadis as Feminist Political/Activist Subjects. Feminist Encounters: A Journal of Critical Studies in Culture and Politics, 7(1), Article 08. [DOI](https://doi.org/10.20897/femenc/12886) 
+Gajjala, R., Edwards, E. L., Rahut, D., Faniyi, O. M., Jha, B., Jain, J., Khan, A., & Farooq, S. (2023). Transnationalising Dadis as Feminist Political/Activist Subjects. Feminist Encounters: A Journal of Critical Studies in Culture and Politics, 7(1), Article 08. [[DOI]](https://doi.org/10.20897/femenc/12886) 
 
 ## Book chapters
 
@@ -16,7 +16,7 @@ the Future of Work: Insights from Organizational Psychological Sciences. Wiley.
 
 *Jha, B., & Funkhouser, R. (2024). Freedom to flourish: A systematic review of the literature at
 the intersection of resilience, communication, and peacebuilding. In S.L. Connaughton S. Pukallus
-(Eds.) The Routledge Handbook of Conflict and Peace Communication. Routledge. [Link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003392002-45/freedom-flourish-bedadyuti-jha-ryan-funkhouser)
+(Eds.) The Routledge Handbook of Conflict and Peace Communication. Routledge. [[Link]](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003392002-45/freedom-flourish-bedadyuti-jha-ryan-funkhouser)
 * Denotes equal contribution.
 
 Chhetri, A., & Jha, B. (2020). The Impact of COVID-19 on Single Women in Rural India. In Impact
@@ -28,7 +28,7 @@ How Supportive Professional Networks and Advisors Predict Graduate Student Outco
 
 ## Under Review
 Foote, J., Kumar, D., Jha, B., Funkhouser, R. N., Goyal, H., & Chiu, H. (Under Review). Taming
-Toxic Talk: Using LLM chatbots to help moderate online conversation.[Preprint](https://arxiv.org/abs/2601.20100) 
+Toxic Talk: Using LLM chatbots to help moderate online conversation.[[Preprint]](https://arxiv.org/abs/2601.20100) 
 
 ## Manuscripts and works in progress
 
