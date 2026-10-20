@@ -27,7 +27,7 @@ I aim to create inclusive learning environments that encourage students to exami
 
 **Purdue University**
 
-Instructor of Record
+**Instructor of Record**
 - Science Writing and Presentation (COM 217) Summer 2026
 - Instructor of Record, Communicating in the Global Workplace (COM 224) Spring 2026
 - Communication, Information, and Society (COM 251) Spring 2026
