@@ -13,8 +13,11 @@ My research examines why people participate in online hate, how online communiti
 
 I am interested in how individuals and organizations communicate and enact resilience in response to recurring adversity.
 
-## Computational communication methods
+## Human-automation interaction
 
-I use computational approaches alongside qualitative and quantitative methods to study communication phenomena.
+I study how humans and automation technology develop trust and interact with each other.
 
-*Edit this page to add current projects, collaborators, grants, and research findings.*
+
+Across these areas, I use computational approaches alongside qualitative and quantitative methods to study communication phenomena.
+
+
