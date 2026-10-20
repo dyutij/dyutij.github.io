@@ -16,8 +16,8 @@ the Future of Work: Insights from Organizational Psychological Sciences. Wiley.
 
 *Jha, B., & Funkhouser, R. (2024). Freedom to flourish: A systematic review of the literature at
 the intersection of resilience, communication, and peacebuilding. In S.L. Connaughton S. Pukallus
-(Eds.) The Routledge Handbook of Conflict and Peace Communication. Routledge. * Denotes equal
-contribution.
+(Eds.) The Routledge Handbook of Conflict and Peace Communication. Routledge. [Link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003392002-45/freedom-flourish-bedadyuti-jha-ryan-funkhouser)
+* Denotes equal contribution.
 
 Chhetri, A., & Jha, B. (2020). The Impact of COVID-19 on Single Women in Rural India. In Impact
 of COVID-19 on Rural India (pp. 41–50). Kalpaz Publications. New Delhi
@@ -28,7 +28,7 @@ How Supportive Professional Networks and Advisors Predict Graduate Student Outco
 
 ## Under Review
 Foote, J., Kumar, D., Jha, B., Funkhouser, R. N., Goyal, H., & Chiu, H. (Under Review). Taming
-Toxic Talk: Using LLM chatbots to help moderate online conversation. 
+Toxic Talk: Using LLM chatbots to help moderate online conversation.[Preprint](https://arxiv.org/abs/2601.20100) 
 
 ## Manuscripts and works in progress
 
