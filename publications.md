@@ -13,10 +13,28 @@ Gajjala, R., Edwards, E. L., Rahut, D., Faniyi, O. M., Jha, B., Jain, J., Khan, 
 
 ## Book chapters
 
-*Add book chapters here.*
+Choung, H. & Jha, B. (2027) Trust in Automation. in L. Tay, S.E. Woo, & A. Chekili (Eds.) AI and
+the Future of Work: Insights from Organizational Psychological Sciences. Wiley.
+
+*Jha, B., & Funkhouser, R. (2024). Freedom to flourish: A systematic review of the literature at
+the intersection of resilience, communication, and peacebuilding. In S.L. Connaughton S. Pukallus
+(Eds.) The Routledge Handbook of Conflict and Peace Communication. Routledge. * Denotes equal
+contribution.
+
+Chhetri, A., & Jha, B. (2020). The Impact of COVID-19 on Single Women in Rural India. In Impact
+of COVID-19 on Rural India (pp. 41–50). Kalpaz Publications. New Delhi
+
+## Revise and Resubmit
+Foote, J. D., Trinidad, A. D., Chiu, H. C., Jha, B., Morgan, M., & Becker, J. Networks or Mentors?
+How Supportive Professional Networks and Advisors Predict Graduate Student Outcomes.
+
+## Under Review
+Foote, J., Kumar, D., Jha, B., Funkhouser, R. N., Goyal, H., & Chiu, H. (Under Review). Taming
+Toxic Talk: Using LLM chatbots to help moderate online conversation. 
 
 ## Manuscripts and works in progress
 
-*Add manuscripts only when you are comfortable making their status public.*
+Choung, H. & Jha, B. (In preparation). A multidimensional scale of Human-AI Trust.
 
-> Replace the examples above with your own verified publication details before sharing this page widely.
+Jha B., & Foote, J. D. (In preparation). The Social Organization of Online Hate.
+
