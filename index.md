@@ -42,7 +42,7 @@ title: Home
 
     <div class="hero-photo">
       <img
-        src="{{ '/assets/images/profile.jpg' | relative_url }}"
+        src="{{ '/assets/images/Profile.jpg' | relative_url }}"
         alt="Portrait of Dyuti Jha"
         loading="eager">
     </div>
