@@ -24,8 +24,8 @@ title: Home
 
       <p class="intro">
         Welcome to my website! I am Dyuti. I am currently an Assistant Professor of Communication Studies at Fort Hays State University. I earned my PhD in Organizational Communication from Purdue University, where I was advised by 
-        <a href="https://jeremydfoote.com/"> Jeremy Foote and earning a certificate in advanced methodologies. I study how people organize, communicate, and respond to harm in digital environments—and how we can understand these processes through quantitative, computational, and qualitative research.
-      </p>
+        <a href="https://jeremydfoote.com/"> Jeremy Foote </a>, and earning a certificate in advanced methodologies. I study how people organize, communicate, and respond to harm in digital environments—and how we can understand these processes through quantitative, computational, and qualitative research.
+      
 
       <div class="actions">
         <a class="button"
