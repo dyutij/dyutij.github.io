@@ -44,3 +44,57 @@
     letter-spacing: -3px;
   }
 }
+
+/* Compact homepage portrait */
+
+.hero-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(0, 0.8fr);
+  align-items: center;
+  gap: 55px;
+}
+
+.hero-text {
+  min-width: 0;
+}
+
+.hero-layout h1 {
+  font-size: clamp(54px, 7vw, 96px);
+  letter-spacing: -4px;
+  line-height: 1.1;
+}
+
+.hero-photo {
+  width: 100%;
+  max-width: 290px;
+  justify-self: end;
+}
+
+.hero-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 4px;
+}
+
+/* Mobile layout */
+
+@media (max-width: 750px) {
+  .hero-layout {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .hero-layout h1 {
+    font-size: clamp(54px, 11vw, 80px);
+    letter-spacing: -3px;
+  }
+
+  .hero-photo {
+    max-width: 240px;
+    justify-self: start;
+  }
+}
