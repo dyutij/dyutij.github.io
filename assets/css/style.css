@@ -98,3 +98,61 @@
     justify-self: start;
   }
 }
+
+/* Fix homepage portrait positioning */
+
+.hero .hero-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(0, 0.8fr);
+  align-items: center;
+  column-gap: 55px;
+  width: 100%;
+}
+
+.hero .hero-text {
+  min-width: 0;
+  grid-column: 1;
+}
+
+.hero .hero-photo {
+  grid-column: 2;
+  grid-row: 1;
+  width: 100%;
+  max-width: 270px;
+  justify-self: end;
+  align-self: center;
+}
+
+.hero .hero-photo img {
+  display: block;
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 4px;
+}
+
+/* Mobile layout */
+
+@media (max-width: 750px) {
+  .hero .hero-layout {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .hero .hero-text {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .hero .hero-photo {
+    grid-column: 1;
+    grid-row: 2;
+    justify-self: start;
+    max-width: 240px;
+  }
+
+  .hero .hero-photo img {
+    height: 300px;
+  }
+}
