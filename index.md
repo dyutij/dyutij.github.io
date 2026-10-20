@@ -39,7 +39,6 @@ title: Home
         </a>
       </div>
 
-    </div>
 
     <div class="hero-photo">
       <img
