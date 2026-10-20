@@ -11,7 +11,7 @@ My research examines why people participate in online hate, how online communiti
 
 ## Individual and organizational resilience
 
-I am interested in how individuals and organizations communicate and enact resilience in response to recurring adversity.
+I am interested in how individuals and organizations communicate and enact resilience in response to singular and recurring instances of adversity.
 
 ## Human-automation interaction
 
